@@ -1,0 +1,32 @@
+<logs>
+    <log>
+        <timestamp>2024-07-10T10:10:00Z</timestamp>
+        <level>INFO</level>
+        <message>Sample log message 3</message>
+    </log>
+    <log>
+        <timestamp>2024-07-10T10:00:00Z</timestamp>
+        <level>INFO</level>
+        <message>Sample log message 1</message>
+    </log>
+    <log>
+        <timestamp>2024-07-10T10:05:00Z</timestamp>
+        <level>ERROR</level>
+        <message>Sample log message 2</message>
+    </log>
+    <log>
+        <timestamp>2024-07-10T10:20:00Z</timestamp>
+        <level>INFO</level>
+        <message>Sample log message 5</message>
+    </log>
+    <log>
+        <timestamp>2024-07-10T10:15:00Z</timestamp>
+        <level>WARN</level>
+        <message>Sample log message 4</message>
+    </log>
+    <log>
+        <timestamp>2024-07-10T10:15:00Z</timestamp>
+        <level>WARN</level>
+        <message>Sample log message 4</message>
+    </log>
+</logs>

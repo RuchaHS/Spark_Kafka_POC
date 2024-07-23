@@ -1,0 +1,4 @@
+v1
+{"path":"file:///Users/ruchaharshad/Documents/Rucha%20Office/FL/Gig1_9_7_24/Spark_Kafka_POC/data/output/part-00000-abf46904-22e2-48a0-a7d1-c47d3a056333-c000.snappy.parquet","size":491,"isDir":false,"modificationTime":1720624258850,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/ruchaharshad/Documents/Rucha%20Office/FL/Gig1_9_7_24/Spark_Kafka_POC/data/output/part-00001-adbf8460-3ff4-44cb-8a72-490edf97f953-c000.snappy.parquet","size":1186,"isDir":false,"modificationTime":1720624258850,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/ruchaharshad/Documents/Rucha%20Office/FL/Gig1_9_7_24/Spark_Kafka_POC/data/output/part-00002-d171c370-ed98-4986-9024-af425d73ba02-c000.snappy.parquet","size":1186,"isDir":false,"modificationTime":1720624258849,"blockReplication":1,"blockSize":33554432,"action":"add"}

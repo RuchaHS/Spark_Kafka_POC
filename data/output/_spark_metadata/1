@@ -1,0 +1,3 @@
+v1
+{"path":"file:///Users/ruchaharshad/Documents/Rucha%20Office/FL/Gig1_9_7_24/Spark_Kafka_POC/data/output/part-00000-a1c1dbd7-76e4-48e2-adf0-9be840a2cf71-c000.snappy.parquet","size":1186,"isDir":false,"modificationTime":1720624138842,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/ruchaharshad/Documents/Rucha%20Office/FL/Gig1_9_7_24/Spark_Kafka_POC/data/output/part-00002-4e708f1e-264a-45f0-900b-965e9cb29848-c000.snappy.parquet","size":1114,"isDir":false,"modificationTime":1720624138842,"blockReplication":1,"blockSize":33554432,"action":"add"}
